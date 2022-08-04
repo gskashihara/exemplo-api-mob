@@ -1,0 +1,12 @@
+C:\Users\guilhermek\source\repos\BelMob.API\BelMob.Core\bin\Debug\net6.0\BelMob.Core.deps.json
+C:\Users\guilhermek\source\repos\BelMob.API\BelMob.Core\bin\Debug\net6.0\BelMob.Core.dll
+C:\Users\guilhermek\source\repos\BelMob.API\BelMob.Core\bin\Debug\net6.0\BelMob.Core.pdb
+C:\Users\guilhermek\source\repos\BelMob.API\BelMob.Core\obj\Debug\net6.0\BelMob.Core.csproj.AssemblyReference.cache
+C:\Users\guilhermek\source\repos\BelMob.API\BelMob.Core\obj\Debug\net6.0\BelMob.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilhermek\source\repos\BelMob.API\BelMob.Core\obj\Debug\net6.0\BelMob.Core.AssemblyInfoInputs.cache
+C:\Users\guilhermek\source\repos\BelMob.API\BelMob.Core\obj\Debug\net6.0\BelMob.Core.AssemblyInfo.cs
+C:\Users\guilhermek\source\repos\BelMob.API\BelMob.Core\obj\Debug\net6.0\BelMob.Core.csproj.CoreCompileInputs.cache
+C:\Users\guilhermek\source\repos\BelMob.API\BelMob.Core\obj\Debug\net6.0\BelMob.Core.dll
+C:\Users\guilhermek\source\repos\BelMob.API\BelMob.Core\obj\Debug\net6.0\refint\BelMob.Core.dll
+C:\Users\guilhermek\source\repos\BelMob.API\BelMob.Core\obj\Debug\net6.0\BelMob.Core.pdb
+C:\Users\guilhermek\source\repos\BelMob.API\BelMob.Core\obj\Debug\net6.0\ref\BelMob.Core.dll
